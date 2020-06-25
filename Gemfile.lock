@@ -20,7 +20,7 @@ GEM
     poppler (3.3.7)
       cairo-gobject (= 3.3.7)
       gio2 (= 3.3.7)
-    rack (2.0.7)
+    rack (2.2.3)
     rack-protection (2.0.7)
       rack
     rake (12.3.3)
